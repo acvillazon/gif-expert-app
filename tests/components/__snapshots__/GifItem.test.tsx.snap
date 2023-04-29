@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifItem tests should take an snapshot of the component 1`] = `
+<div>
+  <div
+    class="max-w-sm rounded overflow-hidden shadow-lg"
+  >
+    <img
+      alt="Andres"
+      class="object-cover h-48 w-full"
+      src="URL"
+    />
+    <p
+      class="italic text-center font-semibold"
+    >
+      Andres
+    </p>
+  </div>
+</div>
+`;
